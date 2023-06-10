@@ -7,3 +7,6 @@ def imil(a):
 
 if __name__ == "__main__":
     print(imil(3))
+
+def af(a, b):
+    return a + b
