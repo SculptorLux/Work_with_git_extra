@@ -10,3 +10,4 @@ if __name__ == "__main__":
 
 def afffff(a, b):
     return a + b
+print("oooooy")
